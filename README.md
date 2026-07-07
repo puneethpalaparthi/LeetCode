@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/puneethpalaparthi/LeetCode/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/puneethpalaparthi/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/puneethpalaparthi/LeetCode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
