@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/puneethpalaparthi/LeetCode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/puneethpalaparthi/LeetCode/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
