@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/puneethpalaparthi/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/puneethpalaparthi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/puneethpalaparthi/LeetCode/tree/master/0037-sudoku-solver) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/puneethpalaparthi/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
