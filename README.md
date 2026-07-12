@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/puneethpalaparthi/LeetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/puneethpalaparthi/LeetCode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puneethpalaparthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puneethpalaparthi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/puneethpalaparthi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/puneethpalaparthi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/puneethpalaparthi/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/puneethpalaparthi/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/puneethpalaparthi/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/puneethpalaparthi/LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/puneethpalaparthi/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/puneethpalaparthi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/puneethpalaparthi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/puneethpalaparthi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/puneethpalaparthi/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
