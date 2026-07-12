@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/puneethpalaparthi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/puneethpalaparthi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/puneethpalaparthi/LeetCode/tree/master/0039-combination-sum) |
+| [0074-search-a-2d-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/puneethpalaparthi/LeetCode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/puneethpalaparthi/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/puneethpalaparthi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/puneethpalaparthi/LeetCode/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
