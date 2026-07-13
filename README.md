@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneethpalaparthi/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0854-k-similar-strings](https://github.com/puneethpalaparthi/LeetCode/tree/master/0854-k-similar-strings) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneethpalaparthi/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0854-k-similar-strings](https://github.com/puneethpalaparthi/LeetCode/tree/master/0854-k-similar-strings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String Matching
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/puneethpalaparthi/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0854-k-similar-strings](https://github.com/puneethpalaparthi/LeetCode/tree/master/0854-k-similar-strings) |
 | [0965-univalued-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Sliding Window
