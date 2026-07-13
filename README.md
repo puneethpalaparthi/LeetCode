@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/puneethpalaparthi/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneethpalaparthi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/puneethpalaparthi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/puneethpalaparthi/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/puneethpalaparthi/LeetCode/tree/master/0968-binary-tree-cameras) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/puneethpalaparthi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/puneethpalaparthi/LeetCode/tree/master/0733-flood-fill) |
 ## Stack
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/puneethpalaparthi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/puneethpalaparthi/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/puneethpalaparthi/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/puneethpalaparthi/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/puneethpalaparthi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/puneethpalaparthi/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/puneethpalaparthi/LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/puneethpalaparthi/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -279,4 +284,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
