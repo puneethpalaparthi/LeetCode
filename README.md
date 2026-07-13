@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/puneethpalaparthi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneethpalaparthi/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/puneethpalaparthi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/puneethpalaparthi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneethpalaparthi/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -181,9 +183,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
