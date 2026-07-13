@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/puneethpalaparthi/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/puneethpalaparthi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneethpalaparthi/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String Matching
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
