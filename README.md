@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/puneethpalaparthi/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/puneethpalaparthi/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2596-check-knight-tour-configuration](https://github.com/puneethpalaparthi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/puneethpalaparthi/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/puneethpalaparthi/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/puneethpalaparthi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/0392-is-subsequence) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/puneethpalaparthi/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/puneethpalaparthi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/puneethpalaparthi/LeetCode/tree/master/0090-subsets-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -346,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/puneethpalaparthi/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
