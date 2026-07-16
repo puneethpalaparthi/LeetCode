@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/puneethpalaparthi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/puneethpalaparthi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/puneethpalaparthi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/puneethpalaparthi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/puneethpalaparthi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/puneethpalaparthi/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/puneethpalaparthi/LeetCode/tree/master/0968-binary-tree-cameras) |
 ## Prefix Sum
