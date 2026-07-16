@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/puneethpalaparthi/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0854-k-similar-strings](https://github.com/puneethpalaparthi/LeetCode/tree/master/0854-k-similar-strings) |
+| [1143-longest-common-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/puneethpalaparthi/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/puneethpalaparthi/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
