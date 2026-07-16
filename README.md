@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/puneethpalaparthi/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2596-check-knight-tour-configuration](https://github.com/puneethpalaparthi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/puneethpalaparthi/LeetCode/tree/master/0733-flood-fill) |
+| [2596-check-knight-tour-configuration](https://github.com/puneethpalaparthi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/puneethpalaparthi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/puneethpalaparthi/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/puneethpalaparthi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
@@ -310,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/puneethpalaparthi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
