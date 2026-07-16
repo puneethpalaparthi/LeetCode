@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/puneethpalaparthi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/puneethpalaparthi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/puneethpalaparthi/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/puneethpalaparthi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/puneethpalaparthi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/puneethpalaparthi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/puneethpalaparthi/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/puneethpalaparthi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/puneethpalaparthi/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/puneethpalaparthi/LeetCode/tree/master/0079-word-search) |
