@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/puneethpalaparthi/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/puneethpalaparthi/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/puneethpalaparthi/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/puneethpalaparthi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/puneethpalaparthi/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/puneethpalaparthi/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
