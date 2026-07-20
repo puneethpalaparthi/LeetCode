@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/puneethpalaparthi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/puneethpalaparthi/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/puneethpalaparthi/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/puneethpalaparthi/LeetCode/tree/master/0189-rotate-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/puneethpalaparthi/LeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/puneethpalaparthi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/puneethpalaparthi/LeetCode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/puneethpalaparthi/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/puneethpalaparthi/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/puneethpalaparthi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/puneethpalaparthi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/puneethpalaparthi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/puneethpalaparthi/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/puneethpalaparthi/LeetCode/tree/master/0044-wildcard-matching) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/puneethpalaparthi/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
