@@ -9,7 +9,7 @@
  *     }
  * }
  */
-/*public class Solution {
+public class Solution {
     public boolean hasCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
@@ -25,8 +25,8 @@
         
         return false;
     }
-}*/
-
+}
+/*
 public class Solution {
     public boolean hasCycle(ListNode head) {
        
@@ -42,3 +42,4 @@ public class Solution {
       return false;
     }
 }
+*/
