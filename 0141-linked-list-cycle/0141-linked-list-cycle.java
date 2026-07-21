@@ -9,7 +9,7 @@
  *     }
  * }
  */
-public class Solution {
+/*public class Solution {
     public boolean hasCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
@@ -24,5 +24,21 @@ public class Solution {
         }
         
         return false;
+    }
+}*/
+
+public class Solution {
+    public boolean hasCycle(ListNode head) {
+       
+      HashSet<ListNode> seen=new HashSet<>();
+      ListNode crr=head;
+      while(crr!=null){
+        if(seen.contains(crr)){
+            return true;
+        }
+        seen.add(crr);
+        crr=crr.next;
+      }
+      return false;
     }
 }
