@@ -11,7 +11,6 @@ class Solution {
         if (n % 2 == 1)
             return ans[n / 2];
         return (ans[n/2 - 1] + ans[n/2]) / 2.0;
-    
-       
+         
     }
 }
